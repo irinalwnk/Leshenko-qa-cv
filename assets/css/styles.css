@@ -51,9 +51,9 @@ html{
 body.dark-theme{
   --title-color: #f2f2f2;
   --text-color: #bfbfbf;
-  --container-color: #480ca8;
-  --container-color-alt: #3a0ca3;
-  --body-color: #560bad;
+  --container-color: #5a189a;
+  --container-color-alt: #3c096c;
+  --body-color: #240046;
 }
 
 /*========== Кнопки тёмные/светлые ==========*/
